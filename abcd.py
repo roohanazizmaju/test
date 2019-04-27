@@ -5,6 +5,3 @@ e.runAndWait()
 
 e.say("good bye")
 e.runAndWait()e.say("good bye")
-e.runAndWait()
-e.say("good bye")
-e.runAndWait()
